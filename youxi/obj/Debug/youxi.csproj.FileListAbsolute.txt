@@ -1,0 +1,8 @@
+E:\C#\youxi\youxi\bin\Debug\youxi.exe
+E:\C#\youxi\youxi\bin\Debug\youxi.pdb
+E:\C#\youxi\youxi\obj\Debug\youxi.csprojResolveAssemblyReference.cache
+E:\C#\youxi\youxi\obj\Debug\youxi.Form1.resources
+E:\C#\youxi\youxi\obj\Debug\youxi.Properties.Resources.resources
+E:\C#\youxi\youxi\obj\Debug\youxi.csproj.GenerateResource.Cache
+E:\C#\youxi\youxi\obj\Debug\youxi.exe
+E:\C#\youxi\youxi\obj\Debug\youxi.pdb
